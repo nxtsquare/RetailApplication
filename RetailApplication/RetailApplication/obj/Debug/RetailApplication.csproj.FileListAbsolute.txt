@@ -1,0 +1,6 @@
+C:\Users\kirankumar\Practise\angularApps\RetailApplication\RetailApplication\RetailApplication\bin\RetailApplication.dll.config
+C:\Users\kirankumar\Practise\angularApps\RetailApplication\RetailApplication\RetailApplication\bin\RetailApplication.dll
+C:\Users\kirankumar\Practise\angularApps\RetailApplication\RetailApplication\RetailApplication\bin\RetailApplication.pdb
+C:\Users\kirankumar\Practise\angularApps\RetailApplication\RetailApplication\RetailApplication\obj\Debug\RetailApplication.csprojResolveAssemblyReference.cache
+C:\Users\kirankumar\Practise\angularApps\RetailApplication\RetailApplication\RetailApplication\obj\Debug\RetailApplication.dll
+C:\Users\kirankumar\Practise\angularApps\RetailApplication\RetailApplication\RetailApplication\obj\Debug\RetailApplication.pdb
